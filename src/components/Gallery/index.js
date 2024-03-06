@@ -106,7 +106,7 @@ class Gallery extends Component {
               alt={currentImageDetails.imageAltText}
             />
             <h1 className="main-heading">Nature Photography</h1>
-            <p className="photographer">Nature Photography by Rahul</p>
+            <p className="photographer">Nature Photography by Faiz</p>
           </div>
           <ul className="thumbnails-container">
             {imagesList.map(imageDetails => (
